@@ -1,0 +1,23 @@
+.bgimage {
+    height:40pc;
+    background: url('/a12666eea6b9c6d9f0d12a84362ac633-700.jpg');
+    background-size:cover;
+    position:relative;
+}
+.hero_title {
+    font-size: 4.5rem;
+}
+.hero_desc {
+    font-size: 2rem;
+}
+.hero-text {
+    text-align: center;
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+}
+.imageAboutPage{
+    width:300px;
+}
