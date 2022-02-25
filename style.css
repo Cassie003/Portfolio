@@ -1,3 +1,8 @@
+.back{
+    background: url('/henry-be-6mwtDZUOFrw-unsplash.jpg');
+    background-size:cover;
+
+}
 .bgimage {
     height:40pc;
     background: url('/a12666eea6b9c6d9f0d12a84362ac633-700.jpg');
@@ -20,4 +25,8 @@
 }
 .imageAboutPage{
     width:300px;
+    left: 50%;
+}
+#about{
+    color:aliceblue;
 }
