@@ -58,7 +58,7 @@ I'm a Software Developer 💻
   <img  align="left" src = "https://github-readme-streak-stats.herokuapp.com/?user=Cassie003&">
 </a>
 <br>
-<h3 align="left">LICENSE</h3>
+<h3 align="center">LICENSE</h3>
 <i>MIT License</i>
 
 <i>Copyright (c) 2022 casey minu</i>
