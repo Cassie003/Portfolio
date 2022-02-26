@@ -59,9 +59,8 @@ I'm a Software Developer 💻
 </a>
 <br>
 <h3 align="center">LICENSE</h3>
-<i>MIT License</i>
-
-<i>Copyright (c) 2022 casey minu</i>
+<i align="center">MIT License</i>
+<i align="center">Copyright (c) 2022 casey minu</i>
 
 
 
